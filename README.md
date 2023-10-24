@@ -1,2 +1,2 @@
 # GHG-emissions-Climate-Modeling
-This is a project for EAEEE4000_001_2023 Machine learning for environmental engineering class.
+This is a project for Fall 2023 EAEEE4000 Machine learning for environmental engineering and sciences class.
