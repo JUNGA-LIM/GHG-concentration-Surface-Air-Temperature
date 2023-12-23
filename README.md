@@ -3,6 +3,10 @@
 ## Objective
 
 ## Datasets
+* Brad Weir, Lesley Ott and OCO-2 Science Team (2022), OCO-2 GEOS Level 3 monthly, 0.5x0.625 assimilated CO2 V10r, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC)
+* Chris Barnet (2019), Sounder SIPS: AQUA AIRS IR-only Level 3 CLIMCAPS: Comprehensive Quality Control Gridded Monthly V2, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC)
+* Global Modeling and Assimilation Office (GMAO) (2022), M2-SCREAM: 3d,3-Hourly,Instantaneous,Model-Level,Assimilation,Assimilated Constituent Fields,Replayed MERRA-2 Meteorological Fields, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC)
+
 
 ## Model Architecture
 
