@@ -1,5 +1,6 @@
 # Predicting greenhouse gas concentration and surface temperature with CNN, LSTM, CNN-LSTM models 
 
+![image](https://github.com/JUNGA-LIM/GHG-concentration-Surface-Air-Temperature/assets/144382002/dc81a095-e006-470c-abea-29b4527956a3)
 
 ## Objective
 * Unravel how spatial information on greenhouse gases can enhance our ability to estimate temperature. 
